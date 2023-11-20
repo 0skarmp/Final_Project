@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "655be0947865e7a1855d6e40"
+  },
+  "id": 1,
+  "name": "Joe",
+  "lastName": "Doe",
+  "dni": "12345",
+  "telefono": "456123789",
+  "pais": "Peru",
+  "fechaEntrada": "10/01/2023",
+  "fechaSalida": "11/01/2023"
+}]
